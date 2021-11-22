@@ -2,8 +2,8 @@
 //  BusinessApplicationUITests.swift
 //  BusinessApplicationUITests
 //
-//  Created by Aaron Caines on 15/07/2017.
-//  Copyright © 2017 Aaron Caines. All rights reserved.
+//  Created by Joel on 21/10/21.
+//  Copyright © 2021 LBrands. All rights reserved.
 //
 
 import XCTest
